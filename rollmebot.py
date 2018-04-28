@@ -78,5 +78,5 @@ async def on_message(message):
 		print(e)
 		await client.send_message(message.channel, choice(msgs))
 
-client.run('MzcwMDMyMjQ3NTM1MDQyNTYy.DMhvrQ.UaprWQb67WpV0fF5Hdqeej5fddk')
+client.run('')
 
